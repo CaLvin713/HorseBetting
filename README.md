@@ -1,0 +1,2 @@
+# HorseBetting
+Horse betting calc
